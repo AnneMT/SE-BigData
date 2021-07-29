@@ -14,8 +14,8 @@
  Through the execution of transitions between five states, probable
  effectiveness of cybersecurity attacks and defenses are evaluated.
  The ouput graph and data demonstrate that investments in cybersecurity
- mechanisms provide significantly lower down time and to minimize impact
- operating in a degraded state.
+ mechanisms provide significantly lower down time and minimize the impact
+ of operating in a degraded state.
  
  Input File Names: data-control-attack.xls and input-control-attack.xls
  
